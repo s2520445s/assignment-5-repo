@@ -1,0 +1,8 @@
+<svg viewBox="-5 -5 200 100"
+    version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+  <rect width="27%" height="50%" fill = "white" stroke="silver" /> 
+  <circle r="2" fill="red">
+    <animateMotion dur="20s" repeatCount="indefinite" path="M0,0 H54 V50 H0  Z"/>
+  </circle>
+    </svg>
